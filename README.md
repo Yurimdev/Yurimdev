@@ -1,17 +1,18 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=800&lines=Olá,+eu+sou+o+Yuri+Martins!;Desenvolvedor+Backend+|+Entusiasta+de+IA;Estudante+de+Redes" alt="Typing SVG" />
+  <h1>Olá, eu sou o Yuri Martins!</h1>
+  <h3>Desenvolvedor Backend | Entusiasta de IA | Estudante de Redes</h3>
 </div>
 
 <br/>
 
-### 👨‍💻 Sobre Mim
-- 🔭 **Atualmente trabalhando em**: Calculadora de Obras
-- 🌱 **Estudando**: Redes de Computadores e Spring Boot
-- ⚡ **Curiosidade**: Grande fã de One Punch Man e focado em resolver problemas com "um único commit" 👊
+### Sobre Mim
+- Atualmente trabalhando em: Calculadora de Obras
+- Estudando: Redes de Computadores e Spring Boot
+- Curiosidade: Grande fã de One Punch Man e focado em resolver problemas com "um único commit"
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Linguagens:**
 <p>
@@ -36,10 +37,10 @@
 
 ---
 
-### 📊 Estatísticas Dinâmicas
+### Estatísticas Dinâmicas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yurimdev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yurimdev&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
   <br/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yurimdev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
@@ -50,7 +51,7 @@
 
 ---
 
-### 📫 Contato
+### Contato
 
 <div align="left">
   <a href="https://github.com/Yurimdev">
