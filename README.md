@@ -1,14 +1,13 @@
 <div align="center">
   <h1>Olá, eu sou o Yuri Martins!</h1>
-  <h3>Desenvolvedor Backend | Entusiasta de IA | Estudante de Redes</h3>
+  <h3>Desenvolvedor | Entusiasta de IA | Estudante de Ciência da Computação</h3>
 </div>
 
 <br/>
 
 ### Sobre Mim
-- Atualmente trabalhando em: Calculadora de Obras
-- Estudando: Redes de Computadores e Spring Boot
-- Curiosidade: Grande fã de One Punch Man e focado em resolver problemas com "um único commit"
+- Estudando: Ciência da Computação e Spring Boot
+- Interesses: Gosto de trabalhar com desenvolvimento Front-end e Back-end
 
 ---
 
